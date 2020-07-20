@@ -1,1 +1,1 @@
-# goit-markup-hw-02
+# github-homework1
