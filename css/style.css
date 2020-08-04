@@ -13,7 +13,7 @@ body {
 .logo {
 	font-family: Raleway;
 	font-style: normal;
-	font-weight: bold;
+	font-weight: 700;
 	font-size: 26px;
 	line-height: 1.29em;
 	letter-spacing: 0.03em;
@@ -79,7 +79,7 @@ body {
 }
 
 .btn {
-	font-weight: bold;
+	font-weight: 700;
 	font-size: 16px;
 	line-height: 1.25em;
 	display: flex;
